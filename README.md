@@ -25,7 +25,7 @@ A thorough exploratory data analysis was performed, to clean and preprocess the 
 
 **Communication**
 
-The results and code for scraping/modeling are in this repo, along with the final slides.
+The results and code for [scraping](https://github.com/zoel321/lr-tripadvisor/blob/master/tripadvisor-scraping.ipynb)/modeling are in this repo, along with the final slides.
 
 
 
