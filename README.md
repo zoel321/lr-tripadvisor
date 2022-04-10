@@ -25,7 +25,11 @@ A thorough exploratory data analysis was performed, to clean and preprocess the 
 
 **Communication**
 
-The results and code for [scraping](https://github.com/zoel321/lr-tripadvisor/blob/master/tripadvisor-scraping.ipynb)/modeling are in this repo, along with the final slides.
+The results and code are in this repo, along with the [final slides](https://github.com/zoel321/lr-tripadvisor/blob/master/Metis%20-%20Linear%20Regression_%20Predicting%20Tripadvisor%20Ratings.pdf):
+- [Web scraping](https://github.com/zoel321/lr-tripadvisor/blob/master/tripadvisor-scraping.ipynb)
+- [Cleaning](https://github.com/zoel321/lr-tripadvisor/blob/master/Tripadvisor%20-%20Data%20cleaning%20.ipynb)
+- [Baseline model/MVP](https://github.com/zoel321/lr-tripadvisor/blob/master/Tripadvisor%20Regression%20-%20Baseline.ipynb)
+- [Modeling](https://github.com/zoel321/lr-tripadvisor/blob/master/Tripadvisor%20Regression-full.ipynb)
 
 
 
