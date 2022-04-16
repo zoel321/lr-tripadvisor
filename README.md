@@ -2,7 +2,7 @@
 
 **Abstract**
 
-The goal of this project was to predict the TripAdvisor review score of hotels (between 1-5 stars) based on certain features of the hotel, using a linear regression model built from data scraped from current TripAdvisor hotel listings in Australia. The final linear regression model using Elastic Net has a negative mean absolute error (NMAE) of -0.30 and a mean R^2 score of 0.39.
+The goal of this project was to predict the TripAdvisor review score of hotels (between 1-5 stars) based on certain features of the hotel, using a linear regression model built from data scraped from current TripAdvisor hotel listings in Australia. The final linear regression model using Elastic Net has a negative mean absolute error (NMAE) of -0.32 and a mean R^2 score of 0.37.
 
 **Design**
 
